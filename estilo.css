@@ -1,0 +1,54 @@
+body{
+    background-color:orange;
+}
+#titulo1{
+    background-color:wheat;
+    position: relative;
+    text-align: center;
+
+}
+#t1{
+    
+}
+#titulo2{
+    background-color: white;
+    text-align: center;
+    height: auto;
+    width: 100%;
+    line-height: 50px;
+    text-decoration-color: orange;   
+}
+
+#imagem1{
+    width: 100%;
+    
+}
+#img2{
+    width: 80%;
+    height: auto;
+}
+#paragrafo1{
+    text-align: center;
+}
+#titulo3{
+    background-color:white;
+    text-align: center;
+    height: auto;
+    width:100% ;
+    line-height: 50px;
+}
+#img3{
+    width: 80%;
+    height: auto;
+}
+#t4{
+    background-color: white;
+    text-align: center;
+    width: auto;
+}
+#img4{
+    height:auto;
+    width: 80%;
+}
+
+
